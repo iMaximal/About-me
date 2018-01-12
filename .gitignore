@@ -1,0 +1,12 @@
+.idea
+*sublime*
+.DS_Store
+backup
+dist
+node_modules
+public
+manifest
+
+*.log
+*.lock
+*.map

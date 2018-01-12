@@ -1,0 +1,55 @@
+
+___
+Navigation: 
+[About me](README.md "My experience, skills") |
+[Cources](COURCES.md "What am I learning?") |
+[Test tasks](TESTS.md "I did this projects") |
+[Conferences](CONFERENCES.md "Where could you see me?")
+___
+
+
+# Web Software Developer (JavaScript, NodeJS)
+
+## What have I learned, or studying yet
+
+learn.javascript.ru [whole]
+
+https://github.com/urfu-2016 [whole]
+
+YouTube: Ilya Kantor, Sorax, CodeDojo
+
+Specifications: EcmaScript, W3C, WHATWG
+
+### Udemy
+
+[The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview)
+
+[Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/)
+
+[GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)
+
+[React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview)
+
+[Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
+
+[Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+
+[Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/learn/v4/overview)
+
+[The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
+
+[React Native: Advanced Concepts](https://www.udemy.com/react-native-advanced/learn/v4/overview)
+
+[Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/learn/v4/overview)
+
+[Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/go-the-complete-developers-guide/)
+
+
+
+___
+Navigation: 
+[About me](README.md "My experience, skills") |
+[Cources](COURCES.md "What am I learning?") |
+[Test tasks](TESTS.md "I did this projects") |
+[Conferences](CONFERENCES.md "Where could you see me?")
+___
