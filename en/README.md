@@ -19,7 +19,9 @@ Laboratory of Mathematical Geophysics, Post-Graduate Student
 
 2010
 Ural Federal University, Institute Radio Electronics
+
 mathematician-programmer
+
 
 ## Experience
 
