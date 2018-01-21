@@ -11,11 +11,12 @@ ___
 
 ## Какие тестовые задания я выполнял?
 ___
-1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-1-google-map)
+1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-5-google-map-react)
 ___
 ﻿Написал приложение, позволяющее отмечать точки на карте и привязывать к этим точкам какие-либо объекты.
 
-Технологии: React, Redux, Webpack + Gulp.
+Технологии: React, Redux, Routes, Styled components, Webpack.
+
 
 ___
 2. [Автокомплит списка городов](https://github.com/iMaximal/task-2-autocomplete)

@@ -11,7 +11,7 @@ ___
 
 ## What test tasks had I performed?
 ___
-1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-1-google-map)
+1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-5-google-map-react)
 ___
 I have written an application that allows you to mark points on the map and attach any objects to these points.
 
