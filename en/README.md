@@ -12,12 +12,12 @@ ___
 
 ## Education
 
-2014
+2010-2014
 Institute of Geophysics, Ural Branch of the Russian Academy of Sciences
 
 Laboratory of Mathematical Geophysics, Post-Graduate Student
 
-2010
+2005-2010
 Ural Federal University, Institute Radio Electronics
 
 mathematician-programmer
@@ -33,7 +33,7 @@ Completely made the admin panel for a month.
 
 Technologies: React + Redux, ImmutableJS, Reselect, Styled components, Meterial UI, Gulp, Webpack 3, Node.js, Express.
 
-Interesting subjects: a tree construction with the help of recursive components and Drag'n'Drop; nice SVN diffs in the web; microservice of the NodeJS, which executes Linux commands wrapped in Promise.
+Interesting subjects: a tree construction based on recursive components with Drag'n'Drop; nice SVN diffs in the web; microservice of the NodeJS, which executes Linux commands wrapped in Promise.
    ***
 
 2010-2017 Institute of Geophysics, Ural Branch of the Russian Academy of Sciences

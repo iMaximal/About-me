@@ -13,7 +13,7 @@ ___
 ___
 1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-5-google-map-react)
 ___
-I written an application that allows you to mark points on the map and attach any objects to these points.
+I wrote an application that allows you to mark points on the map and attach any objects to these points.
 
 Technologies: React, Redux, Routes, Styled components, Webpack.
 
