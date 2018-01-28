@@ -13,14 +13,14 @@ ___
 ___
 1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-5-google-map-react)
 ___
-I have written an application that allows you to mark points on the map and attach any objects to these points.
+I written an application that allows you to mark points on the map and attach any objects to these points.
 
-Technologies: React, Redux, Webpack + Gulp.
+Technologies: React, Redux, Routes, Styled components, Webpack.
 
 ___
 2. [AutoComplete city list](https://github.com/iMaximal/task-2-autocomplete)
 ___
-I have made 2 excellent solutions by ES5 and ES6 (DI, Webpack).
+I made 2 excellent solutions by ES5 and ES6 (DI, Webpack).
 
 Backend: NodeJS (Express) + PostgreSQL.
 
@@ -29,7 +29,7 @@ Technologies: ES5, ES6, Express (+ Helmet, Express Rate Limit, Express validator
 ___
 3. [List of books](https://github.com/iMaximal/task-3-books-list)
 ___
-I have made a demo page for editing the list of books.
+I made a demo page for editing the list of books.
 
 Technologies: React, Redux, Webpack + Gulp, Nodemon, Unit tests.
 

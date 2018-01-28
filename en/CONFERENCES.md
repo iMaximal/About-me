@@ -16,6 +16,7 @@ ___
  14.12.2017      | PostgreSQL Meetup (Yandex) | 
  29.11.2017      | Progressive Automation Technologies. PTA-URAL 2017 | 
  22.11.2017      | UralJS #5 | 
+ 19.10.2017      | Deep Machine Learning Meet up in The Ural Federal University | 
  13.10.2017      | Blockchain School - Blockchain and crypto-currencies | 
  29.09.2017      | MeetUP SBERTECH Dev: Best practices for developing in Java and JS in the projects of the new technological Sberbank's platform | 
  15.09.2017      | BEM Meet up (Yandex) | 
