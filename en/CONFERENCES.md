@@ -13,6 +13,8 @@ ___
 
  When        | Name       |
  ------------- |:-------------:| 
+ 10.02.2018      | Bruce Momjian: "New in PostgreSQL: today and tomorrow" |
+ 08.02.2018      | UralJS #6 |
  14.12.2017      | PostgreSQL Meetup (Yandex) | 
  29.11.2017      | Progressive Automation Technologies. PTA-URAL 2017 | 
  22.11.2017      | UralJS #5 | 
