@@ -13,6 +13,7 @@ ___
 
  When        | Name       |
  ------------- |:-------------:| 
+ 18.02.2018      | EKB STARTUP DAY 2018 | 
  10.02.2018      | Bruce Momjian: "New in PostgreSQL: today and tomorrow" |
  08.02.2018      | UralJS #6 |
  14.12.2017      | PostgreSQL Meetup (Yandex) | 
