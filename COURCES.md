@@ -26,7 +26,7 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/)
 
-[GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)
+[GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/) [[Сертификат](https://www.udemy.com/certificate/UC-LSORFPP6/)]
 
 [React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview)
 
