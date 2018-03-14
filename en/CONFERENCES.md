@@ -13,7 +13,7 @@ ___
 
  When        | Name       |
  ------------- |:-------------:| 
- 01.03.2018      | java.ural.Meetup @1 | 
+ 01.03.2018      | JUG.EKB | 
  18.02.2018      | EKB STARTUP DAY 2018 | 
  10.02.2018      | Bruce Momjian: "New in PostgreSQL: today and tomorrow" |
  08.02.2018      | UralJS #6 |
