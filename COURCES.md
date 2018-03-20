@@ -44,6 +44,8 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/go-the-complete-developers-guide/)
 
+M001: MongoDB Basics [[Сертификат от Mongo University](https://university.mongodb.com/course_completion/a6cb2702-f7b3-4515-94a8-688cb2ea/printable)]
+
 
 ___
 Навигация: 
