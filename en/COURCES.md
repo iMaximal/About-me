@@ -22,7 +22,7 @@ Specifications: EcmaScript, W3C, WHATWG
 
 ### Udemy
 
-[The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview)
+[The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview) [[Certificate](https://www.udemy.com/certificate/UC-E8XZNL7U/)]
 
 [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/)
 
