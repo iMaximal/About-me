@@ -27,11 +27,15 @@ mathematician-programmer
 
 2017 AlteroSmart
 ------ 
-Software Developer
+Full Stack Developer
 
-Completely made the admin panel for a month.
+Completely made the admin panel for communication network.
 
-Technologies: React + Redux, ImmutableJS, Reselect, Styled components, Meterial UI, Gulp, Webpack 3, Node.js, Express.
+Made SPA application for monitoring and administration recorders of power energy (line/vector/PQ charts, real time, history) for several languages.
+
+Developed the micro services using Node.js for solving specific tasks.
+
+Technologies: React, Redux, Redux-saga, ImmutableJS, Material UI, Styled Components, SCSS, Node.js, Express, Jest, Enzyme, Supertests, Webpack, Docker, PostgreSQL, D3, Plot.ly.
 
 Interesting subjects: a tree construction based on recursive components with Drag'n'Drop; nice SVN diffs in the web; microservice of the NodeJS, which executes Linux commands wrapped in Promise.
    ***

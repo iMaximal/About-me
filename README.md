@@ -29,11 +29,15 @@ ___
 
 2017 AlteroSmart
 ------ 
-Разработчик
+Full Stack Developer
 
-Полностью сделал панель администратора за месяц.
+Полностью сделал панель администратора для управления сетевым оборудованием.
 
-Технологии: React + Redux, ImmutableJS, Reselect, Styled components, Meterial UI, Gulp, Webpack 3, Node.js, Express.
+Сделал SPA для мониторинга и администрирования электрорегистраторов (линейные/векторные/PQ графики, реального времени, по истории) для нескольких языков.
+
+Разработал микросервисы, используя Node.js, для решения специфических задач.
+
+Технологии: React, Redux, Redux-saga, ImmutableJS, Material UI, Styled Components, SCSS, Node.js, Express, Jest, Enzyme, Supertests, Webpack, Docker, PostgreSQL, D3, Plot.ly.
 
 Из интересного: дерево за счет рекурсивных компонентов с Drag'n'Drop, красивый вывод SVN diff'ов, микросервис на NodeJS, который выполняет линуксовые команды, завернутые в Promise.
 ***
