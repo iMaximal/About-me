@@ -28,7 +28,7 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/) [[Сертификат](https://www.udemy.com/certificate/UC-LSORFPP6/)]
 
-[React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview)
+[React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview) [[Сертификат](https://www.udemy.com/certificate/UC-EVXYC3VW/)]
 
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
 
