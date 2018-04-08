@@ -8,7 +8,7 @@ Navigation:
 ___
 
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## What have I learned, or studying yet
 

@@ -8,7 +8,7 @@ ___
 ___
 
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## Что я изучил или, может быть, ещё изучаю
 

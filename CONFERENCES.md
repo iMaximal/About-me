@@ -7,7 +7,7 @@ ___
 [Конференции](CONFERENCES.md "Где вы могли меня видеть?")
 ___
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## Куда я ходил? Где я общаюсь? Где Вы могли меня видеть?
 

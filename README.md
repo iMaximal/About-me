@@ -9,7 +9,7 @@ ___
 ___
 
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## Образование
 
@@ -27,7 +27,13 @@ ___
 
 ## Опыт работы
 
-2017 AlteroSmart
+2018 Exadel
+------
+
+Работа мечты.
+***
+
+2017-2018 AlteroSmart
 ------ 
 Full Stack Developer
 

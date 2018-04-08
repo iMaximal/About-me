@@ -7,7 +7,7 @@ Navigation:
 [Conferences](CONFERENCES.md "Where could you see me?")
 ___
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## Where did I go? Where do I communicate? Where could you see me?
 

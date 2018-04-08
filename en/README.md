@@ -8,7 +8,7 @@ Navigation:
 ___
 
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## Education
 
@@ -24,6 +24,12 @@ mathematician-programmer
 
 
 ## Experience
+
+2018 Exadel
+------
+
+Dream work.
+***
 
 2017 AlteroSmart
 ------ 

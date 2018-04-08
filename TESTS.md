@@ -7,7 +7,7 @@ ___
 [Конференции](CONFERENCES.md "Где вы могли меня видеть?")
 ___
 
-# Web Software Developer (JavaScript, NodeJS)
+# FullStack Web Developer (JavaScript, NodeJS)
 
 ## Какие тестовые задания я выполнял?
 ___
