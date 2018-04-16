@@ -34,7 +34,7 @@ Specifications: EcmaScript, W3C, WHATWG
 
 [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
 
-[Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/learn/v4/overview)
+[Server Side Rendering with React and Redux](https://www.udemy.com/server-side-rendering-with-react-and-redux/learn/v4/overview) [[Certificate](https://www.udemy.com/certificate/UC-EIPHTNDR/)]
 
 [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
 
