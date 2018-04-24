@@ -28,7 +28,9 @@ Specifications: EcmaScript, W3C, WHATWG
 
 [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/) [[Certificate](https://www.udemy.com/certificate/UC-LSORFPP6/)]
 
-[React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview) [[Certificate](https://www.udemy.com/certificate/UC-EVXYC3VW/)]
+[React 16 - The Complete Guide](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview) [[Certificate](https://www.udemy.com/certificate/UC-EVXYC3VW/)]
+
+[React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/learn/v4/)
 
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
 
@@ -45,6 +47,8 @@ Specifications: EcmaScript, W3C, WHATWG
 [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/go-the-complete-developers-guide/)
 
 M001: MongoDB Basics [[Mongo University Certificate](https://university.mongodb.com/course_completion/a6cb2702-f7b3-4515-94a8-688cb2ea/printable)]
+
+M101JS: MongoDB for Node.js Developers
 
 ___
 Navigation: 

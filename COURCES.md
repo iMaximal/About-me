@@ -30,6 +30,8 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 [React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview) [[Сертификат](https://www.udemy.com/certificate/UC-EVXYC3VW/)]
 
+[React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/learn/v4/)
+
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
 
 [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
@@ -45,6 +47,8 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/go-the-complete-developers-guide/)
 
 M001: MongoDB Basics [[Сертификат от Mongo University](https://university.mongodb.com/course_completion/a6cb2702-f7b3-4515-94a8-688cb2ea/printable)]
+
+M101JS: MongoDB for Node.js Developers
 
 
 ___
