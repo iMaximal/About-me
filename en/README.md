@@ -2,7 +2,7 @@
 ___
 Navigation: 
 [About me](README.md "My experience, skills") |
-[Cources](COURCES.md "What am I learning?") |
+[Courses](COURSES.md "What am I learning?") |
 [Test tasks](TESTS.md "I did this projects") |
 [Conferences](CONFERENCES.md "Where could you see me?")
 ___
@@ -94,7 +94,7 @@ has collected more than 900 000 messages. I am able to create a community, succe
 ___
 Navigation: 
 [About me](README.md "My experience, skills") |
-[Cources](COURCES.md "What am I learning?") |
+[Courses](COURSES.md "What am I learning?") |
 [Test tasks](TESTS.md "I did this projects") |
 [Conferences](CONFERENCES.md "Where could you see me?")
 ___

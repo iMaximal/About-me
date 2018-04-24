@@ -2,7 +2,7 @@
 ___
 Навигация: 
 [Обо мне](README.md "Мой опыт работы, навыки") |
-[Курсы](COURCES.md "Чему я учусь, куда двигаюсь?") |
+[Курсы](COURSES.md "Чему я учусь, куда двигаюсь?") |
 [Тестовые задания](TESTS.md "Выполненные тестовые задания") |
 [Конференции](CONFERENCES.md "Где вы могли меня видеть?")
 ___
@@ -30,6 +30,8 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 [React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview) [[Сертификат](https://www.udemy.com/certificate/UC-EVXYC3VW/)]
 
+[React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/learn/v4/)
+
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
 
 [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
@@ -46,11 +48,13 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 M001: MongoDB Basics [[Сертификат от Mongo University](https://university.mongodb.com/course_completion/a6cb2702-f7b3-4515-94a8-688cb2ea/printable)]
 
+M101JS: MongoDB for Node.js Developers
+
 
 ___
 Навигация: 
 [Обо мне](README.md "Мой опыт работы, навыки") |
-[Курсы](COURCES.md "Чему я учусь, куда двигаюсь?") |
+[Курсы](COURSES.md "Чему я учусь, куда двигаюсь?") |
 [Тестовые задания](TESTS.md "Выполненные тестовые задания") |
 [Конференции](CONFERENCES.md "Где вы могли меня видеть?")
 ___
