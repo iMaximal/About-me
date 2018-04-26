@@ -12,7 +12,8 @@ ___
 ## Where did I go? Where do I communicate? Where could you see me?
 
  When        | Name       |
- ------------- |:-------------:| 
+ ------------- |:-------------:|
+ 25.04.2018      | Meeting on databases in Yekaterinburg (Yandex)  |
  30.03.2018      | Atlassian User Group in Yekaterinburg  | 
  15.03.2018      | java.ural.Meetup @1 | 
  01.03.2018      | JUG.EKB | 
