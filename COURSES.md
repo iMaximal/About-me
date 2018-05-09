@@ -48,7 +48,7 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 M001: MongoDB Basics [[Сертификат от Mongo University](https://university.mongodb.com/course_completion/a6cb2702-f7b3-4515-94a8-688cb2ea/printable)]
 
-M101JS: MongoDB for Node.js Developers
+M101JS: MongoDB for Node.js Developers [[Сертификат от Mongo University](https://university.mongodb.com/course_completion/7847a2d5-bd7f-4abb-b1a3-cbc966a5/printable)]
 
 
 ___
