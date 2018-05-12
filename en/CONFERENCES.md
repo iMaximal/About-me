@@ -2,7 +2,7 @@
 ___
 Navigation: 
 [About me](README.md "My experience, skills") |
-[Courses](COURSES.md "What am I learning?") |
+[Courses & Certificates](COURSES.md "What am I learning?") |
 [Test tasks](TESTS.md "I did this projects") |
 [Conferences](CONFERENCES.md "Where could you see me?")
 ___
@@ -41,7 +41,7 @@ ___
 ___
 Navigation: 
 [About me](README.md "My experience, skills") |
-[Courses](COURSES.md "What am I learning?") |
+[Courses & Certificates](COURSES.md "What am I learning?") |
 [Test tasks](TESTS.md "I did this projects") |
 [Conferences](CONFERENCES.md "Where could you see me?")
 ___
