@@ -30,7 +30,7 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 [React 16 - The Complete Guide ](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview) [[Сертификат](https://www.udemy.com/certificate/UC-EVXYC3VW/)]
 
-[React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/learn/v4/)
+[React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/learn/v4/) [[Сертификат](https://www.udemy.com/certificate/UC-33ML1C70/)]
 
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
 
