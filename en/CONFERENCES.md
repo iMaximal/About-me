@@ -13,6 +13,7 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 15.06.2018      | Atlassian's Group: What's new |
  25.04.2018      | Meeting on databases in Yekaterinburg (Yandex)  |
  30.03.2018      | Atlassian User Group in Yekaterinburg  | 
  15.03.2018      | java.ural.Meetup @1 | 
