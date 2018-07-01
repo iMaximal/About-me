@@ -50,7 +50,7 @@ M001: MongoDB Basics [[Сертификат от Mongo University](https://unive
 
 M101JS: MongoDB for Node.js Developers [[Сертификат от Mongo University](https://university.mongodb.com/course_completion/7847a2d5-bd7f-4abb-b1a3-cbc966a5/printable)]
 
-[Angular 6 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
+[Angular 6 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) [[Сертификат](https://www.udemy.com/certificate/UC-11UG7DM7/)]
 
 ___
 Навигация: 
