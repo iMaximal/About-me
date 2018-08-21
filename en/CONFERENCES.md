@@ -13,6 +13,8 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 16-18, August, 2018     | Qingdao International Academicians Forum, China |
+ 05.07.2018      | UralJS #8 |
  15.06.2018      | Atlassian's Group: What's new |
  25.04.2018      | Meeting on databases in Yekaterinburg (Yandex)  |
  30.03.2018      | Atlassian User Group in Yekaterinburg  | 
