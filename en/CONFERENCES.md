@@ -13,6 +13,7 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 25.08.2018      | UralJS #9 |
  16-18, August, 2018     | Qingdao International Academicians Forum, China |
  05.07.2018      | UralJS #8 |
  15.06.2018      | Atlassian's Group: What's new |
