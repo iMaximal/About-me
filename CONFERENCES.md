@@ -13,6 +13,8 @@ ___
 
  Когда        | Название       |
  ------------- |:-------------:| 
+ 27.09.2018      | Код информационной безопасности |
+ 20.09.2018      | myDigitalDay |
  25.08.2018      | UralJS #9 |
  16-18, August, 2018     | Qingdao International Academicians Forum, China |
  05.07.2018      | UralJS #8 |
