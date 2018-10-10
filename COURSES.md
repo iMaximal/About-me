@@ -22,6 +22,9 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 ### Udemy
 
+[React Data Visualization - Build a Cryptocurrency Dashboard](https://www.udemy.com/react-data-visualization-build-a-cryptocurrency-dashboard/) [[Сертификат](https://www.udemy.com/certificate/UC-GBQ5UZMW/)]
+
+
 [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview) [[Сертификат](https://www.udemy.com/certificate/UC-E8XZNL7U/)]
 
 [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/)
