@@ -13,6 +13,8 @@ ___
 
  Когда        | Название       |
  ------------- |:-------------:| 
+ 12.10.2018      | Internet Expo 2018, Yekaterinburg |
+ 11.10.2018      | Atlassian User Group, Yekaterinburg |
  27.09.2018      | Код информационной безопасности |
  20.09.2018      | myDigitalDay |
  25.08.2018      | UralJS #9 |
