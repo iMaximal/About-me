@@ -13,6 +13,7 @@ ___
 
  Когда        | Название       |
  ------------- |:-------------:| 
+ 18.10.2018      | Митап по базам данных, Yandex, Yekaterinburg |
  12.10.2018      | Internet Expo 2018, Yekaterinburg |
  11.10.2018      | Atlassian User Group, Yekaterinburg |
  27.09.2018      | Код информационной безопасности |
