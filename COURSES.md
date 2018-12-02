@@ -22,6 +22,8 @@ YouTube: Илья Кантор, Sorax, CodeDojo
 
 ### Udemy
 
+[React, Security, & Full-Stack Auth with Node and PostgreSQL](https://www.udemy.com/react-security/) [[Сертификат](https://www.udemy.com/certificate/UC-R2326DK5/)]
+
 [React Data Visualization - Build a Cryptocurrency Dashboard](https://www.udemy.com/react-data-visualization-build-a-cryptocurrency-dashboard/) [[Сертификат](https://www.udemy.com/certificate/UC-GBQ5UZMW/)]
 
 [React Testing with Jest and Enzyme](https://www.udemy.com/react-testing-with-jest-and-enzyme/) [[Сертификат](https://www.udemy.com/certificate/UC-VA98T0TY/)]
