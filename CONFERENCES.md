@@ -13,6 +13,8 @@ ___
 
  Когда        | Название       |
  ------------- |:-------------:| 
+ 02.01.2019      | XP Couching, Yekaterinburg |
+ 15.12.2018      | ScrumLab, Bank Tochka, Yekaterinburg |
  18.10.2018      | Митап по базам данных, Yandex, Yekaterinburg |
  12.10.2018      | Internet Expo 2018, Yekaterinburg |
  11.10.2018      | Atlassian User Group, Yekaterinburg |
