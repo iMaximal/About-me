@@ -9,7 +9,8 @@ Navigation:
 ___
 
 
-# Maksim Golitsyn - FullStack Web Developer (JavaScript, NodeJS)
+# Maksim Golitsyn
+### FullStack Web Developer (JavaScript, NodeJS)
 
 ## Actual Skills
 
@@ -44,6 +45,44 @@ Cloud: Heroku, Firebase.
 Development Environments and Tools: Jira, Trello, Confluence, Bamboo, Github, Gitlab, zoom.us, Hangouts, Slack, WebStorm, Sublime, Google Analytics, Yandex Metrica, Key Collector, Screaming Frog SEO Spider, Advego Plagiatus, dbdesigner.net.
 
 
+<details><summary>Why I'm applicable as React developer?
+</summary>
+I passed > 8 React courses.
+
+I'm React tutor.
+
+I'm creating my own code academy and writing video course.
+
+I know how to create app from scratch.
+
+Great optimization skills:
+- different bundles for modern and old browsers;
+- lazy loading;
+- reduce render cycles;
+- offline cache;
+- memory profiling;
+- iOS and IE capability. 
+
+My [experience](EXPERIENCE.md) is useful for any business.
+</details>
+
+
+<details><summary>Why I'm good as Node.js developer?
+</summary>
+I passed > 5 Node.js courses.
+
+I started my first web server in 2001.
+
+I follow best practice:
+[https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/]
+
+[https://www.sqreen.com/checklists/nodejs-security-handbook]
+
+
+My [experience](EXPERIENCE.md) is useful for any business.
+</details>
+
+
 ## Other
 
 * I write freely in pure JS
@@ -53,7 +92,7 @@ Development Environments and Tools: Jira, Trello, Confluence, Bamboo, Github, Gi
 * SEO - professional (compilation of the semantic kernel, microdata (schema.org), analysis of competitors, optimization of the page for a specific request with a guarantee of access to the top, search and elimination of problems on the site, the creation of reference mass, numerous tasks in content exchanges, etc.). Understanding the principles and algorithms of search engines. Experience in promoting large projects in several regions.
 * Experience of partnerships with regional telecoms operators.
 * Knowledge of building networks, routing.
-* GYM and swimming at least 3-5 times a week.
+* GYM and swimming 3-5 times a week.
 * Pilot of Mavic 2 Zoom
 
 ___
