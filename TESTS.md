@@ -1,52 +1,54 @@
 
 ___
-Навигация: 
-[Обо мне](README.md "Мой опыт работы, навыки") |
-[Курсы & Сертификаты](COURSES.md "Чему я учусь, куда двигаюсь?") |
-[Тестовые задания](TESTS.md "Выполненные тестовые задания") |
-[Конференции](CONFERENCES.md "Где вы могли меня видеть?")
+Navigation: 
+[About me](README.md "About Maksim Golitsyn skills") |
+[Experience](EXPERIENCE.md "Working experience") |
+[Courses & Certificates](COURSES.md "What am I learning?") |
+[Test tasks](TESTS.md "I did this projects") |
+[Conferences](CONFERENCES.md "Where could you see me?")
 ___
 
 # FullStack Web Developer (JavaScript, NodeJS)
 
-## Какие тестовые задания я выполнял?
+## What test tasks had I performed?
 ___
 1. [Google Map with React + Redux / Pure JS](https://github.com/iMaximal/task-5-google-map-react)
 ___
-﻿Написал приложение, позволяющее отмечать точки на карте и привязывать к этим точкам какие-либо объекты.
+I wrote an application that allows you to mark points on the map and attach any objects to these points.
 
-Технологии: React, Redux, Routes, Styled components, Webpack.
+Technologies: React, Redux, Routes, Styled components, Webpack.
+
+___
+2. [AutoComplete city list](https://github.com/iMaximal/task-2-autocomplete)
+___
+I made 2 excellent solutions by ES5 and ES6 (DI, Webpack).
+
+Backend: NodeJS (Express) + PostgreSQL.
+
+Technologies: ES5, ES6, Express (+ Helmet, Express Rate Limit, Express validator, Compression), Handlebars, PostgreSQL, Sequelize.
+
+___
+3. [List of books](https://github.com/iMaximal/task-3-books-list)
+___
+I made a demo page for editing the list of books.
+
+Technologies: React, Redux, Webpack + Gulp, Nodemon, Unit tests.
+
+___
+4. [Show of letters with animation](https://github.com/iMaximal/task-4-key-animation)
+
+___
+It was necessary to create a web page, then you should press the letter keys on the keyboard, and the text the text you enter will be animated in the vertical orientation.
+
+Technologies: Pure HTML, CSS, JS.
+
 
 
 ___
-2. [Автокомплит списка городов](https://github.com/iMaximal/task-2-autocomplete)
-___
-Сделал 2 прекрасных решения на ES5 и на ES6 (DI, Webpack).
-
-На бекенде развернул NodeJS (Express) + PostgreSQL.
-
-Технологии: ES5, ES6, Express (+ Helmet, Express Rate Limit, Express validator, Compression), Handlebars, PostgreSQL, Sequelize.
-
-___
-3. [Список книг](https://github.com/iMaximal/task-3-books-list)
-___
-Сделал демо-страницу для редактирования списка книг.
-
-Технологии: React, Redux, Webpack + Gulp, Nodemon, Unit tests.
-
-___
-4. [Вывод букв с анимацией](https://github.com/iMaximal/task-4-key-animation)
-___
-Нужно было создать веб страницу, на которой при нажатии буквенных клавиш на клавиатуре будет анимировано появляться вводимый текст в вертикальной ориентации.
-
-Технологии: Pure HTML, CSS, JS.
-
-
-
-___
-Навигация: 
-[Обо мне](README.md "Мой опыт работы, навыки") |
-[Курсы & Сертификаты](COURSES.md "Чему я учусь, куда двигаюсь?") |
-[Тестовые задания](TESTS.md "Выполненные тестовые задания") |
-[Конференции](CONFERENCES.md "Где вы могли меня видеть?")
+Navigation: 
+[About me](README.md "About Maksim Golitsyn skills") |
+[Experience](EXPERIENCE.md "Working experience") |
+[Courses & Certificates](COURSES.md "What am I learning?") |
+[Test tasks](TESTS.md "I did this projects") |
+[Conferences](CONFERENCES.md "Where could you see me?")
 ___
