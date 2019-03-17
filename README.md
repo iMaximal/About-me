@@ -47,6 +47,7 @@ Development Environments and Tools: Jira, Trello, Confluence, Bamboo, Github, Gi
 
 <details><summary>Why I'm applicable as React developer?
 </summary>
+
 I passed >8 React courses.
 
 I'm React tutor.
@@ -69,13 +70,16 @@ My [experience](EXPERIENCE.md) is useful for any business.
 
 <details><summary>Why I'm good as Node.js developer?
 </summary>
+
 I passed >5 Node.js courses.
+
 Working experience with MySQL, Postgres, Mongo.
+
 Fun of iCTF, RuCTF (international security competitions).
 
 I started my first web server in 2001.
 
-I follow best practice:
+I follow best practices:
 
 https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 
