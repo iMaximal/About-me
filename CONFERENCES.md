@@ -14,6 +14,8 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 18.04.2019      | Atlassian User Group: Automation and Scalable infrastructure |
+ 23.03.2019      | Ekb Startup Day 2019 |
  02.01.2019      | XP Couching, Yekaterinburg |
  15.12.2018      | ScrumLab, Bank Tochka, Yekaterinburg |
  18.10.2018      | Databases Meet up, Yandex, Yekaterinburg |
