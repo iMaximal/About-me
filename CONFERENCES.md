@@ -14,6 +14,9 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 23.08.2019      | Agile Meetup, Ubrr |
+ 21.08.2019      | Databases Meet up, Yandex, Yekaterinburg |
+ 14.08.2019      | Atlassian User Group: Reports for TOPs and mature CI/CD |
  18.04.2019      | Atlassian User Group: Automation and Scalable infrastructure |
  23.03.2019      | Ekb Startup Day 2019 |
  02.01.2019      | XP Couching, Yekaterinburg |
