@@ -16,6 +16,8 @@ ___
  ------------- |:-------------:|
  25.10.2019      | Kubernetes Meetup Yekaterinburg |
  24.10.2019      | Fuckup Nights Yekaterinburg Vol. V |
+ 14.09.2019      | YaTalks |
+ 13.09.2019      | ChangerMeetUp |
  23.08.2019      | Agile Meetup, Ubrr |
  21.08.2019      | Databases Meet up, Yandex, Yekaterinburg |
  14.08.2019      | Atlassian User Group: Reports for TOPs and mature CI/CD |
