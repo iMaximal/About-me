@@ -14,6 +14,9 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 03.06.2020      | Kubernetes Meetup Online |
+ 28.05.2020      | Nsk Tech Talks #12 (frontend) |
+ 21.05.2020      | Yet Another Meetup for Product Managers |
  25.10.2019      | Kubernetes Meetup Yekaterinburg |
  24.10.2019      | Fuckup Nights Yekaterinburg Vol. V |
  14.09.2019      | YaTalks |
