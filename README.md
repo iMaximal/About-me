@@ -14,7 +14,7 @@ ___
 
 ## Actual Skills
 
-Programming languages and technologies: JavaScript, TypeScript, HTML CSS, BEM Methodology, Emmet, ESLint (extended Airbnb), Git hooks (pre-commit [lint, tests]), Prettier, Cross-env, npm-run-all, JWT, Passport.js, Webpack, Gulp, React, React Native, Node.js, Server side rendering (Next.js, react-dom/server, Angular Universal), Socket.js, Socket.io, serialize, npm, npx, yarn, nvm, jenv, SEO, Drag'n'Drop.
+Programming languages and technologies: JavaScript, TypeScript, HTML CSS, BEM Methodology, Emmet, ESLint, Git hooks (pre-commit [lint, tests]), Prettier, cross-env, npm-run-all, JWT, Passport.js, Webpack, Gulp, React, Node.js, Server side rendering (Next.js, react-dom/server, Angular Universal), server side generation (Next.js), Socket.js, Socket.io, serialize, npm, npx, yarn, nvm, jenv, SEO, Drag'n'Drop.
 
 OS: MacOS (zsh, Homebrew), Ubuntu, Windows.
 
@@ -42,7 +42,7 @@ Databases: MySQL, PostgreSQL, Mongo
 
 Cloud: Heroku, Firebase.
 
-Development Environments and Tools: Jira, Trello, Confluence, Bamboo, Github, Gitlab, zoom.us, Hangouts, Slack, WebStorm, Sublime, Google Analytics, Yandex Metrica, Key Collector, Screaming Frog SEO Spider, Advego Plagiatus, dbdesigner.net.
+Development Environments and Tools: Jira, Azure, Trello, Confluence, Bamboo, Github, Gitlab, zoom.us, Hangouts, Slack, WebStorm, Sublime, Google Analytics, Yandex Metrica, Key Collector, Screaming Frog SEO Spider, Advego Plagiatus, dbdesigner.net.
 
 
 <details><summary>Why I'm applicable as React developer?
@@ -50,9 +50,7 @@ Development Environments and Tools: Jira, Trello, Confluence, Bamboo, Github, Gi
 
 I passed >8 React courses.
 
-I'm React tutor.
-
-I'm creating my own code academy and writing video course.
+I'm React tutor and I have my own React+TypeScript course on Udemy.
 
 I know how to create app from scratch.
 
@@ -75,8 +73,6 @@ I passed >5 Node.js courses.
 
 Working experience with MySQL, Postgres, Mongo.
 
-Fun of iCTF, RuCTF (international security competitions).
-
 I started my first web server in 2001.
 
 I follow best practices:
@@ -94,13 +90,12 @@ See [experience](EXPERIENCE.md) for more details.
 
 * I write freely in pure JS
 * English (Intermediate, read: 29,000+ words, write: 5000+ words)
-* Participant of iCTF, RuCTF - specialized in web security.
 * Participant of local and regional conferences.
 * SEO - professional (compilation of the semantic kernel, microdata (schema.org), analysis of competitors, optimization of the page for a specific request with a guarantee of access to the top, search and elimination of problems on the site, the creation of reference mass, numerous tasks in content exchanges, etc.). Understanding the principles and algorithms of search engines. Experience in promoting large projects in several regions.
 * Experience of partnerships with regional telecoms operators.
 * Knowledge of building networks, routing.
 * GYM and swimming 3-5 times a week.
-* Pilot of Mavic 2 Zoom
+* Pilot of Mavic 2
 
 ___
 Navigation: 
