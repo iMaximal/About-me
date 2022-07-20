@@ -14,11 +14,11 @@ ___
 
 ## Actual Skills
 
-Programming languages and technologies: JavaScript, TypeScript, HTML CSS, BEM Methodology, Emmet, ESLint, Git hooks (pre-commit [lint, tests]), Prettier, cross-env, npm-run-all, JWT, Passport.js, Webpack, Gulp, React, Node.js, Server side rendering (Next.js, react-dom/server, Angular Universal), server side generation (Next.js), Socket.js, Socket.io, serialize, npm, npx, yarn, nvm, jenv, SEO, Drag'n'Drop.
+Programming languages and technologies: JavaScript, TypeScript, HTML CSS, BEM Methodology, Emmet, ESLint (extended Airbnb), Git hooks (pre-commit [lint, tests]), Prettier, Cross-env, npm-run-all, JWT, Passport.js, Webpack, Gulp, React, React Native, Node.js, Server side rendering (Next.js, react-dom/server, Angular Universal), Socket.js, Socket.io, serialize, npm, npx, yarn, nvm, jenv, SEO, Drag'n'Drop, Text-to-Speech, Speech-to-Text.
 
 OS: MacOS (zsh, Homebrew), Ubuntu, Windows.
 
-Development approaches and methodologies: Agile, SCRUM, XP, Kanban, Lean. 
+Development approaches and methodologies: Agile (SCRUM, Kanban, XP), Lean Thinking. 
 
 Programming practices: TDD, SOLID, KISS, DRY
 
@@ -26,13 +26,13 @@ Frameworks and Libraries:
 
 Frontend
 
-React + Redux + TypeScript, Angular + ngrx + rxjs, Redux-Act, Redux-Saga, redux-forms, react-helmet, ImmutableJS, Reselect,  ReactTransitionGroup, Styled components, Lodash, Meterial UI, Plot.ly [SVG, Canvas, WebGl] (+ D3.js), Highcharts, Moment, Intl, Babel, Axios, Service Workers (for offline cache), Manifest.
+React + Redux + TypeScript, Angular + ngrx + rxjs, Redux-Act, Redux-Saga, redux-forms, react-helmet, ImmutableJS, Reselect,  ReactTransitionGroup, Styled components, Lodash, Material UI, Plot.ly (+ D3.js) [SVG, Canvas, WebGl], Highcharts, date-fns, Moment, Intl, i18next,  Babel, Axios, Service Workers (for offline cache), Manifest.
 
 Processors: Stylus, SCSS, LESS, PostCSS, CSSNext, Autoprefixer.
 
 Backend
 
-Node.js, Express (+ Helmet, Express Rate Limit, Validator, Compression), Handlebars, Sequelize, Mongoose, path, bcrypt, crypto-js, nodemon, Joi.
+Node.js, Express (+ Helmet, Express Rate Limit, Validator, Compression), Koa, NestJS, Handlebars, Sequelize, TypeORM, Mongoose, path, bcrypt, nodemon, Joi.
 
 API: REST, GraphQL (Apollo).
 
@@ -42,13 +42,13 @@ Databases: MySQL, PostgreSQL, Mongo
 
 Cloud: Heroku, Firebase.
 
-Development Environments and Tools: Jira, Azure, Trello, Confluence, Bamboo, Github, Gitlab, zoom.us, Hangouts, Slack, WebStorm, Sublime, Google Analytics, Yandex Metrica, Key Collector, Screaming Frog SEO Spider, Advego Plagiatus, dbdesigner.net.
+Development Environments and Tools: Jira, Azure, Trello, Confluence, Bamboo, Github, Gitlab, zoom.us, Hangouts, Slack, WebStorm, Sublime, Google Analytics, Yandex Metrica, Key Collector, Screaming Frog SEO Spider, Advego Plagiatus, dbdesigner.net, Miro, Figma.
 
 
 <details><summary>Why I'm applicable as React developer?
 </summary>
 
-I passed >8 React courses.
+I developed 8 successful commercial projects using React with internalization.
 
 I'm React tutor and I have my own React+TypeScript course on Udemy.
 

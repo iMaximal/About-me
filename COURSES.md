@@ -11,7 +11,7 @@ ___
 
 # FullStack Web Developer (JavaScript, NodeJS)
 
-## What have I learned, or studying yet
+## What have I learned
 
 learn.javascript.ru [whole]
 
@@ -22,6 +22,10 @@ YouTube: Ilya Kantor, Sorax, CodeDojo
 Specifications: EcmaScript, W3C, WHATWG
 
 ### Udemy
+
+[NestJS – Medium clone API](https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratch/) [[Certificate](https://www.udemy.com/certificate/UC-7c84e4c3-721e-48d5-9a4f-0ff89b5d093b/)]
+
+[React + Next.js – from scratch. TypeScript, Hooks, SSR and CSS Grid](https://www.udemy.com/course/react-nextjs/) [[Certificate](https://www.udemy.com/certificate/UC-047f2a45-fa7a-4b7b-8519-7807db18e71f/)]
 
 [React, Security, & Full-Stack Auth with Node and PostgreSQL](https://www.udemy.com/react-security/) [[Certificate](https://www.udemy.com/certificate/UC-R2326DK5/)]
 
