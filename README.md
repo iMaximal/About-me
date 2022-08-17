@@ -89,7 +89,7 @@ See [experience](EXPERIENCE.md) for more details.
 ## Other
 
 * I write freely in pure JS
-* English (Intermediate, read: 29,000+ words, write: 5000+ words)
+* English (Upper-Intermediate, read: 29,000+ words, write: 5000+ words)
 * Participant of local and regional conferences.
 * SEO - professional (compilation of the semantic kernel, microdata (schema.org), analysis of competitors, optimization of the page for a specific request with a guarantee of access to the top, search and elimination of problems on the site, the creation of reference mass, numerous tasks in content exchanges, etc.). Understanding the principles and algorithms of search engines. Experience in promoting large projects in several regions.
 * Experience of partnerships with regional telecoms operators.

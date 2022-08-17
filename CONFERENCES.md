@@ -14,6 +14,7 @@ ___
 
  When        | Name       |
  ------------- |:-------------:|
+ 12.08.2022      | I love frontend (Yandex) |
  03.06.2020      | Kubernetes Meetup Online |
  28.05.2020      | Nsk Tech Talks #12 (frontend) |
  21.05.2020      | Yet Another Meetup for Product Managers |
