@@ -23,7 +23,9 @@ Specifications: EcmaScript, W3C, WHATWG
 
 ### Udemy
 
-[Modern GraphQL with Node - Complete Developers Guide.](https://www.udemy.com/course/modern-graphql-complete-guide/) [[Certificate](https://www.udemy.com/certificate/UC-62e31556-536b-4479-96ed-27a683f22b7a/)]
+[Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) [[Certificate](https://www.udemy.com/certificate/UC-ae6ecff3-b2a2-46e0-96fe-d9f3ccda3895/)]
+
+[Modern GraphQL with Node - Complete Developers Guide](https://www.udemy.com/course/modern-graphql-complete-guide/) [[Certificate](https://www.udemy.com/certificate/UC-62e31556-536b-4479-96ed-27a683f22b7a/)]
 
 [Microservices - patterns and practice of building microservices](https://www.udemy.com/course/microservices-nodejs/) [[Certificate](https://www.udemy.com/certificate/UC-5a6cf011-a73a-4542-b7d1-2cc0211ac3e7/)]
 

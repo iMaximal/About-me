@@ -48,7 +48,7 @@ Development Environments and Tools: Jira, Azure, Trello, Confluence, Bamboo, Git
 <details><summary>Why I'm applicable as React developer?
 </summary>
 
-I developed 8 successful commercial projects using React with internalization.
+I developed a lot successful commercial projects using React with internalization.
 
 I'm React tutor and I have my own React+TypeScript course on Udemy.
 
